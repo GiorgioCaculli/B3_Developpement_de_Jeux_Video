@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1632908560 source:/home/gzc/Desktop/pDemoPersonne/main.cpp
+	<iostream>
+	"Personne.hpp"
+
+1632826576 /home/gzc/Desktop/pDemoPersonne/include/Personne.hpp
+	<string>
+
+1632908607 source:/home/gzc/Desktop/pDemoPersonne/src/Personne.cpp
+	"Personne.hpp"
+	<iostream>
+

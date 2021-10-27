@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1634034118 source:/home/gzc/Desktop/pDemoAgregation/src/PersonneAEP.cpp
+	"PersonneAEP.hpp"
+	<sstream>
+
+1634033877 /home/gzc/Desktop/pDemoAgregation/include/PersonneAEP.hpp
+	"Residence.hpp"
+	<string>
+
+1634034109 source:/home/gzc/Desktop/pDemoAgregation/src/PersonneAER.cpp
+	"PersonneAER.hpp"
+	<sstream>
+
+1634034009 /home/gzc/Desktop/pDemoAgregation/include/PersonneAER.hpp
+	"Residence.hpp"
+	<string>
+
+1634033916 source:/home/gzc/Desktop/pDemoAgregation/src/PersonneAIP.cpp
+	"PersonneAIP.hpp"
+	<sstream>
+
+1634033788 /home/gzc/Desktop/pDemoAgregation/include/PersonneAIP.hpp
+	"Residence.hpp"
+	<string>
+
+1634033901 source:/home/gzc/Desktop/pDemoAgregation/src/PersonneAIVL.cpp
+	"PersonneAIVL.hpp"
+	<sstream>
+
+1634033620 /home/gzc/Desktop/pDemoAgregation/include/PersonneAIVL.hpp
+	"Residence.hpp"
+	<string>
+
+1634036130 source:/home/gzc/Desktop/pDemoAgregation/main.cpp
+	<iostream>
+	"Residence.hpp"
+	"PersonneAIVL.hpp"
+	"PersonneAIP.hpp"
+	"PersonneAEP.hpp"
+	"PersonneAER.hpp"
+	"Point.hpp"
+	"DisqueAIVL.hpp"
+	"DisqueAIP.hpp"
+	"DisqueAEP.hpp"
+	"DisqueAER.hpp"
+
+1634033526 /home/gzc/Desktop/pDemoAgregation/include/Residence.hpp
+	<string>
+
+1634033515 source:/home/gzc/Desktop/pDemoAgregation/src/Residence.cpp
+	"Residence.hpp"
+	<sstream>
+
+1634035875 source:/home/gzc/Desktop/pDemoAgregation/src/DisqueAEP.cpp
+	"DisqueAEP.hpp"
+	<sstream>
+
+1634035751 /home/gzc/Desktop/pDemoAgregation/include/DisqueAEP.hpp
+	"Point.hpp"
+	<string>
+
+1634036029 source:/home/gzc/Desktop/pDemoAgregation/src/DisqueAER.cpp
+	"DisqueAER.hpp"
+	<sstream>
+
+1634035982 /home/gzc/Desktop/pDemoAgregation/include/DisqueAER.hpp
+	"Point.hpp"
+	<string>
+
+1634035675 source:/home/gzc/Desktop/pDemoAgregation/src/DisqueAIP.cpp
+	"DisqueAIP.hpp"
+	<sstream>
+
+1634035577 /home/gzc/Desktop/pDemoAgregation/include/DisqueAIP.hpp
+	"Point.hpp"
+	<string>
+
+1634034600 source:/home/gzc/Desktop/pDemoAgregation/src/Point.cpp
+	"Point.hpp"
+	<iostream>
+	<cmath>
+	<sstream>
+	<iomanip>
+
+1634034600 /home/gzc/Desktop/pDemoAgregation/include/Point.hpp
+	<string>
+
+1634036168 /home/gzc/Desktop/pDemoAgregation/include/DisqueAIVL.hpp
+	"Point.hpp"
+	<string>
+
+1634036258 source:/home/gzc/Desktop/pDemoAgregation/src/DisqueAIVL.cpp
+	"DisqueAIVL.hpp"
+	<sstream>
+

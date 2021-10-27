@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1634635998 source:/home/gzc/Desktop/pDemoOperateur/main.cpp
+	<iostream>
+	"Functions.hpp"
+	"Point.hpp"
+	"Personne.hpp"
+
+1634634842 /home/gzc/Desktop/pDemoOperateur/include/Point.hpp
+	<string>
+	<ostream>
+	<istream>
+
+1634634960 source:/home/gzc/Desktop/pDemoOperateur/src/Point.cpp
+	"Point.hpp"
+	<iostream>
+	<cmath>
+	<sstream>
+	<iomanip>
+
+1634561478 source:/home/gzc/Desktop/pDemoOperateur/src/Functions.cpp
+	"Functions.hpp"
+
+1634561490 /home/gzc/Desktop/pDemoOperateur/include/Functions.hpp
+	"Point.hpp"
+
+1634636014 source:/home/gzc/Desktop/pDemoOperateur/src/Personne.cpp
+	"Personne.hpp"
+	<iostream>
+
+1634635723 /home/gzc/Desktop/pDemoOperateur/include/Personne.hpp
+	<string>
+	<ostream>
+	<istream>
+
+1634560110 source:/home/gzc/Desktop/pDemoOperateur/src/TestClass.cpp
+	"TestClass.hpp"
+
+1634560110 /home/gzc/Desktop/pDemoOperateur/include/TestClass.hpp
+

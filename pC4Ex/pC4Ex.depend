@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1635155292 source:/home/gzc/Desktop/pC4Ex/main.cpp
+	<iostream>
+	"Vecteur3d.hpp"
+	"Matrice.hpp"
+	"MatriceAgregationInterne.hpp"
+	"MatriceAgregationExterne.hpp"
+
+1634640953 /home/gzc/Desktop/pC4Ex/include/Vecteur3d.hpp
+	<ostream>
+	<istream>
+
+1635154464 /home/gzc/Desktop/pC4Ex/include/Matrice.hpp
+	"Vecteur3d.hpp"
+
+1635156929 /home/gzc/Desktop/pC4Ex/include/MatriceAgregationInterne.hpp
+	<vector>
+	"Vecteur3d.hpp"
+
+1634637375 /home/gzc/Desktop/pC4Ex/include/MatriceAgregationExterne.hpp
+
+1634637292 source:/home/gzc/Desktop/pC4Ex/src/Matrice.cpp
+	"Matrice.hpp"
+
+1634637375 source:/home/gzc/Desktop/pC4Ex/src/MatriceAgregationExterne.cpp
+	"MatriceAgregationExterne.hpp"
+
+1635154586 source:/home/gzc/Desktop/pC4Ex/src/MatriceAgregationInterne.cpp
+	"MatriceAgregationInterne.hpp"
+
+1634640901 source:/home/gzc/Desktop/pC4Ex/src/Vecteur3d.cpp
+	"Vecteur3d.hpp"
+	<iostream>
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1633514519 source:/home/gzc/Desktop/pC3Ex/main.cpp
+	<iostream>
+	"Personne.hpp"
+	"Point.hpp"
+
+1633428346 /home/gzc/Desktop/pC3Ex/include/Personne.hpp
+	<string>
+
+1633430881 source:/home/gzc/Desktop/pC3Ex/src/Personne.cpp
+	"Personne.hpp"
+	<string>
+	<iostream>
+	<sstream>
+
+1633515360 source:/home/gzc/Desktop/pC3Ex/src/Point.cpp
+	"Point.hpp"
+	<iostream>
+	<cmath>
+	<sstream>
+	<iomanip>
+
+1633514604 /home/gzc/Desktop/pC3Ex/include/Point.hpp
+	<string>
+

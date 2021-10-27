@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632218496 source:/home/gzc/Desktop/pDemoCpp/main.cpp
+	<iostream>
+	<string>
+

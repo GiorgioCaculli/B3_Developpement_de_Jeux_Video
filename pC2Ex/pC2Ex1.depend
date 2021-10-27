@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1632821486 source:/home/gzc/Desktop/pC2Ex1/main.cpp
+	<iostream>
+	<vector>
+	<random>
+	<iostream>
+

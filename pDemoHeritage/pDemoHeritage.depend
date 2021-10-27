@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1635244499 source:/home/gzc/Desktop/pDemoHeritage/main.cpp
+	<iostream>
+	"Point.hpp"
+	"Pixel.hpp"
+	"Figure.hpp"
+	"Polygone.hpp"
+
+1635241994 /home/gzc/Desktop/pDemoHeritage/include/Point.hpp
+	<string>
+	"Figure.hpp"
+
+1635244526 /home/gzc/Desktop/pDemoHeritage/include/Pixel.hpp
+	<string>
+	"Point.hpp"
+
+1635241913 source:/home/gzc/Desktop/pDemoHeritage/src/Point.cpp
+	"Point.hpp"
+	<iostream>
+	<cmath>
+	<sstream>
+	<iomanip>
+
+1635157819 source:/home/gzc/Desktop/pDemoHeritage/src/TestClass.cpp
+	"TestClass.hpp"
+
+1635157819 /home/gzc/Desktop/pDemoHeritage/include/TestClass.hpp
+
+1635239071 source:/home/gzc/Desktop/pDemoHeritage/src/Pixel.cpp
+	"Pixel.hpp"
+	<sstream>
+
+1635245394 /home/gzc/Desktop/pDemoHeritage/include/Figure.hpp
+	<string>
+
+1635241046 source:/home/gzc/Desktop/pDemoHeritage/src/Figure.cpp
+	"Figure.hpp"
+
+1635244659 source:/home/gzc/Desktop/pDemoHeritage/src/Polygone.cpp
+	"Polygone.hpp"
+	<sstream>
+
+1635244138 /home/gzc/Desktop/pDemoHeritage/include/Polygone.hpp
+	<vector>
+	"Figure.hpp"
+
