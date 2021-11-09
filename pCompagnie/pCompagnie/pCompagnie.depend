@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1636457911 source:/home/gzc/Projects/UNI/B3_Developpement_de_Jeux_Video/pCompagnie/pCompagnie/main.cpp
+	<iostream>
+	<array>
+	"Employe.hpp"
+	"EmployeSalarie.hpp"
+	"EmployeHoraire.hpp"
+	"EmployeCommission.hpp"
+	"EmployeSalarieCommission.hpp"
+
+1636452370 /home/gzc/Projects/UNI/B3_Developpement_de_Jeux_Video/pCompagnie/pCompagnie/include/Compagnie.hpp
+
+1636458415 /home/gzc/Projects/UNI/B3_Developpement_de_Jeux_Video/pCompagnie/pCompagnie/include/Employe.hpp
+	<string>
+	<ostream>
+
+1636452371 source:/home/gzc/Projects/UNI/B3_Developpement_de_Jeux_Video/pCompagnie/pCompagnie/src/Compagnie.cpp
+	"Compagnie.hpp"
+
+1636458483 source:/home/gzc/Projects/UNI/B3_Developpement_de_Jeux_Video/pCompagnie/pCompagnie/src/EmployeCommission.cpp
+	"EmployeCommission.hpp"
+	<sstream>
+
+1636458430 /home/gzc/Projects/UNI/B3_Developpement_de_Jeux_Video/pCompagnie/pCompagnie/include/EmployeCommission.hpp
+	"Employe.hpp"
+
+1636458545 source:/home/gzc/Projects/UNI/B3_Developpement_de_Jeux_Video/pCompagnie/pCompagnie/src/EmployeHoraire.cpp
+	"EmployeHoraire.hpp"
+	<sstream>
+
+1636458438 /home/gzc/Projects/UNI/B3_Developpement_de_Jeux_Video/pCompagnie/pCompagnie/include/EmployeHoraire.hpp
+	"EmployeSalarie.hpp"
+	<string>
+
+1636458605 source:/home/gzc/Projects/UNI/B3_Developpement_de_Jeux_Video/pCompagnie/pCompagnie/src/EmployeSalarieCommission.cpp
+	"EmployeSalarieCommission.hpp"
+	<sstream>
+
+1636458408 /home/gzc/Projects/UNI/B3_Developpement_de_Jeux_Video/pCompagnie/pCompagnie/include/EmployeSalarieCommission.hpp
+	"EmployeCommission.hpp"
+	<string>
+
+1636455395 source:/home/gzc/Projects/UNI/B3_Developpement_de_Jeux_Video/pCompagnie/pCompagnie/src/Employe.cpp
+	"Employe.hpp"
+	<sstream>
+
+1636458567 source:/home/gzc/Projects/UNI/B3_Developpement_de_Jeux_Video/pCompagnie/pCompagnie/src/EmployeSalarie.cpp
+	"EmployeSalarie.hpp"
+	<sstream>
+
+1636458444 /home/gzc/Projects/UNI/B3_Developpement_de_Jeux_Video/pCompagnie/pCompagnie/include/EmployeSalarie.hpp
+	"Employe.hpp"
+	<string>
+

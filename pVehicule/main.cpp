@@ -1,11 +1,11 @@
 #include <iostream>
 
-#include "Vehicule.hpp"
-
-using namespace std;
+#include "Vehicule"
+#include "Taxi.hpp"
+#include "Camion.hpp"
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    std::cout << "pVehicule" << std::endl;
     return 0;
 }
