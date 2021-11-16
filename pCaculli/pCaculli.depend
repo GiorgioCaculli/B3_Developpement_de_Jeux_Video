@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1637061489 source:/home/gzc/Projects/UNI/B3_Developpement_de_Jeux_Video/pCaculli/main.cpp
+	<iostream>
+	"include/Position1966.hpp"
+	"include/Personnage1966.hpp"
+	"include/Druide1966.hpp"
+	"include/Arene1966.hpp"
+
+1637057607 /home/gzc/Projects/UNI/B3_Developpement_de_Jeux_Video/pCaculli/include/Position1966.hpp
+	<string>
+
+1637061461 source:/home/gzc/Projects/UNI/B3_Developpement_de_Jeux_Video/pCaculli/src/Arene1966.cpp
+	"../include/Arene1966.hpp"
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1637055045 /home/gzc/Projects/UNI/B3_Developpement_de_Jeux_Video/pCaculli/include/Arene1966.hpp
+	"Position1966.hpp"
+	"Personnage1966.hpp"
+	"Druide1966.hpp"
+	<vector>
+	<sstream>
+
+1637061452 source:/home/gzc/Projects/UNI/B3_Developpement_de_Jeux_Video/pCaculli/src/Druide1966.cpp
+	"../include/Druide1966.hpp"
+	<sstream>
+
+1637056283 /home/gzc/Projects/UNI/B3_Developpement_de_Jeux_Video/pCaculli/include/Druide1966.hpp
+	"Personnage1966.hpp"
+	<string>
+
+1637058428 /home/gzc/Projects/UNI/B3_Developpement_de_Jeux_Video/pCaculli/include/Personnage1966.hpp
+	"Position1966.hpp"
+	<string>
+
+1637061470 source:/home/gzc/Projects/UNI/B3_Developpement_de_Jeux_Video/pCaculli/src/Personnage1966.cpp
+	"../include/Personnage1966.hpp"
+	<sstream>
+
+1637061476 source:/home/gzc/Projects/UNI/B3_Developpement_de_Jeux_Video/pCaculli/src/Position1966.cpp
+	"../include/Position1966.hpp"
+	<sstream>
+
